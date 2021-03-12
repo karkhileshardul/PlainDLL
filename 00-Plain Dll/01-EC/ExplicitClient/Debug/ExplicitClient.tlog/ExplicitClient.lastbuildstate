@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|C:\Users\SharK\Documents\Visual Studio 2015\Projects\02-Win32SDK_COM_WinRT-2018\01-SDK_COM_WINRT\03-Course\00-Project\01-PlainDLL\02-EC\ExplicitClient\|

@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{5F09C8A2-5ABF-4AED-8905-31CCA526E0CC}]
+@="ClassFactoryClient"
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{5F09C8A2-5ABF-4AED-8905-31CCA526E0CC}\InprocServer32]
+@="C:\\Users\\Shardul\\Desktop\\cmd\\ClassFactoryServer\\ClassFactoryServer\\ClassFactoryServer.dll"
+
+
+
+

@@ -1,0 +1,39 @@
+-------------------:Steps for IDE(Integrated Development Environment):-------------------------------------------
+1. Type the code for creating Basic Window.
+2. Build it and Run it.
+3. Now we have to call the function provided by ExplicitServer:-
+	a. Copy the ExplicitServer.h from ExplicitServer Project and paste it where the .cpp file of the
+	   ExplicitClient is present.
+	b. Include the header file in Project and then declare it in ExplicitClient.cpp
+	c. Now, copy the ExplicitServer.dll from ExplicitServer Project and paste it in either 'SysWOW64' or in Debug directory of
+	   ExplicitClient Project.
+6. Go to ExplicitClient.cpp, then go to CALLBACK Procedure (i.e WndProc):-
+	a. Call the function which is provided by the ExplicitServer.
+	b. Function calling is function pointer type.
+	c. Print the answer of function in MessageBox.
+
+
+
+-------------------:Steps for CMD(Command Line):--------------------------------------------
+1. Type the code for creating Basic Window.
+2. Build it and Run it.
+3. Now we have to call the function provided by ExplicitServer:-
+	a. Copy the ExplicitServer.h from ExplicitServer Project and paste it where the .cpp file of the
+	   ExplicitClient is present.
+	b. Declare the header file in ExplicitClient.cpp
+	c. Now, copy the ExplicitServer.dll from ExplicitServer Project and paste it in either 'SysWOW64' or in the directory where .cpp
+	   file of ExplicitClient is present.
+6. Go to ExplicitClient.cpp, then go to CALLBACK Procedure (i.e WndProc):-
+	a. Call the function which is provided by the ExplicitServer.
+	b. Function calling is function pointer type.
+	c. Print the answer of function in MessageBox.
+
+
+
+
+(Note:-For the 32-Bit Project we have to paste dll(Dynamic Link Library) in 'SysWOW64' and for the 64-Bit Project in 'System32'.)
+
+
+
+
+Created By:- Shardul Sunil Karkhile.

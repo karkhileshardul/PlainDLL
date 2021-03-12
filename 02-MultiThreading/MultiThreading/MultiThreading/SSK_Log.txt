@@ -1,0 +1,7 @@
+File Successfully CreatedAfter WndCLASSEX registration
+After CreateWindow()
+After UpdateWindow()
+After GetMessage()
+After TranslateMessage()
+After DispatchMessage()()
+After Message Loop
